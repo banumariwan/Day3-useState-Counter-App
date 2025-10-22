@@ -1,15 +1,12 @@
-import Header from "./Header";
-import Skills from "./Skills";
-import About from "./About";
+import React from "react";
+import Counter from "./Counter";
 
-function App(){
-return(
-    <div className="App">
-        <Header />
-        <Skills />
-        <About />
+function App() {
+  return (
+    <div>
+      <Counter />
     </div>
-);
+  );
 }
 
 export default App;
