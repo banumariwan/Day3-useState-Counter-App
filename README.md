@@ -1,4 +1,4 @@
-# Day 3: useState Counter App 🎯
+# Project 4: useState Counter App 🎯
 
 ## 🚀 Project Overview
 A simple yet powerful counter application built with React to demonstrate the `useState` hook. Features increment, decrement, and reset functionality.
